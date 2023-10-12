@@ -1,10 +1,10 @@
-### [Hey! I'm ](https://github.com/ethanabraham#hey-im-ethanabraham_xi-ethan-abraham-)[@ethanabraham_xi](https://twitter.com/ethanabraham_xi) (Ethan Abraham) 👋
+### [Hey! I'm ](https://github.com/troyabraham#hey-im-ethanabraham_xi-ethan-abraham-)[@troyabraham](https://twitter.com/troyabraham) (Troy Abraham) 👋
 
 I'm a cybersecurity researcher from Thiruvalla, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
 
 I have been building APIs and tools for Machine Learning and data systems, in Kerala. 🌎
 
-I created [Website Cloner](https://github.com/ethanabraham#), [Web Spy](https://github.com/ethanabraham#), [Linux Leads](https://github.com/ethanabraham#), [Twitter Bot](https://github.com/ethanabraham#) and a bunch of other open source tools. 🚀
+I created [Website Cloner](https://github.com/troyabraham#), [Web Spy](https://github.com/troyabraham#), [Linux Leads](https://github.com/ethanabraham#), [Twitter Bot](https://github.com/ethanabraham#) and a bunch of other open source tools. 🚀
 
 I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 

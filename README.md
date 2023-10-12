@@ -35,5 +35,3 @@ This is the place where I opensource stuff and break things 🤣
 -   [Microsoft wants to rent security experts](https://www.ethanabraham.com/microsoft-wants-to-rent-security-experts.html)
 
 🔗  Connect with me
-
-[![ethanabraham](https://camo.githubusercontent.com/930060eefc13da121130dcb56ccf725fa64fd6892e95ed3d0ed6c1d837f789c6/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3437333635302f6861636b65726f6e652e737667)](https://hackerone.com/ethanabraham) [![ethanabraham](https://camo.githubusercontent.com/05ebd254508d4dd6db5f8684dfa3f313a1815521e8fb1499353eea654d2e463e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3333303039372f62756763726f77642e737667)](https://bugcrowd.com/ethanabraham) [![ethanabraham](https://camo.githubusercontent.com/07afa64035ea299e73cbe3e6c493648d5dcfa72b91fe0cd528cf6bf0fa3636a5/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3333303730382f696e746967726974692e737667)](https://app.intigriti.com/profile/ethanabraham)

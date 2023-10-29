@@ -17,7 +17,7 @@ This is the place where I opensource stuff and break things 🤣
 -   🔭  I'm currently working on something cool 😉
 -   🌱  I'm currently learning , Rust and Go
 -   💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
--   📫  How to reach me: [@troyabraham](https://twitter.com/troyabraham_xi) or [infosec.exchange/@troyabraham](https://infosec.exchange/@troyabraham)
+-   📫  How to reach me: [@troyabraham](https://twitter.com/troyabrahams_xi) or [infosec.exchange/@troyabraham](https://infosec.exchange/@troyabraham)
 -   👨‍💻  Read more about my projects at <https://www.troyabraham.com/p/projects.html>
 -   ⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: [ETNcry](https://account.xbox.com/en-us/profile?gamertag=ETNcry))
 

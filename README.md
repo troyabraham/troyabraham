@@ -19,7 +19,7 @@ This is the place where I opensource stuff and break things 🤣
 -   💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
 -   📫  How to reach me: [@troyabraham](https://twitter.com/troyabraham) or [infosec.exchange/@troyabraham](https://infosec.exchange/@troyabraham)
 -   👨‍💻  Read more about my projects at <https://www.troyabraham.io/p/projects.html>
--   ⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: [ETNcry](https://account.xbox.com/en-us/profile?gamertag=ETNcry))
+-   ⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: [ETNcry](https://account.xbox.com/en-us/profile?gamertag=TROYcry))
 
 📕  Latest Blog Posts
 
